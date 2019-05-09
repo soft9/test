@@ -1,1 +1,2 @@
 theme: jekyll-theme-slate
+skip_render: README.md
